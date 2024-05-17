@@ -29,7 +29,9 @@ npm install express cors body-parser
 node server.js
 
 Back end Application runs on port 5000  and Front end Application runs on port 3000 locally by default
+
 **Contribution**
+
 Our opportunity:
 To address a distributed partner digital experience and create a "Partner Central" where members can swiftly and easily learn about our partner offerings how it benefits them, link and start earning!
  
