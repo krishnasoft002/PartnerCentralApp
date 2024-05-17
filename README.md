@@ -1,11 +1,23 @@
 # PartnerCentralApp
 
-Setup
-Cloning Code With Git bash
-Install git bash for windows
-Enter below command in you git bash (It will clone the repo) git clone https://github.com/krishnasoft002/PartnerCentralApp.git
+## Setup
 
-Seting up application in Windows
+### Cloning Code With Git Bash
+
+1. **Install Git Bash for Windows**
+
+2. **Clone the Repository**
+   - Open Git Bash.
+   - Enter the following command to clone the repository:
+     ```sh
+     git clone https://github.com/krishnasoft002/PartnerCentralApp.git
+     ```
+
+### Setting up the Application in Windows
+
+#### Front End Setup
+
+1. Navigate to the front end folder:
 #### Front End Setup
 cd /frontend
 npm install
