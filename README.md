@@ -27,9 +27,13 @@
    npm start
 
  ####  Back End Setup
+   
     Navigate to the back end folder
+   
    cd /backend
+   
    npm install express cors body-parser
+   
    node server.js
 
 Back end Application runs on port 5000  and Front end Application runs on port 3000 locally by default
