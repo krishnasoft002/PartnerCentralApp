@@ -17,12 +17,14 @@
  
 #### Front End Setup:
  Navigate to the front end folder:
+ 
 1.cd /frontend
 2.npm install
 3.npm install react-router-dom@latest
 4.npm start
  ####  Back End Setup
  Navigate to the back end folder:
+ 
 1.cd /backend
 2.npm install express cors body-parser
 3.node server.js
