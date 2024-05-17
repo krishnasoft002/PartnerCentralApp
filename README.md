@@ -13,20 +13,18 @@
      git clone https://github.com/krishnasoft002/PartnerCentralApp.git
      ```
 
-### Setting up the Application in Windows
-
-#### Front End Setup
+### Setting up the Application in Windows:
 
 1. Navigate to the front end folder:
-#### Front End Setup
-cd /frontend
-npm install
-npm install react-router-dom@latest
-npm start
+#### Front End Setup:
+1.cd /frontend
+2.npm install
+3.npm install react-router-dom@latest
+4.npm start
  ####  Back End Setup
-cd /backend
-npm install express cors body-parser
-node server.js
+1.cd /backend
+2.npm install express cors body-parser
+3.node server.js
 
 Back end Application runs on port 5000  and Front end Application runs on port 3000 locally by default
 
