@@ -18,6 +18,7 @@
 #### Front End Setup:
  
    Navigate to the front end folder
+   
    cd /frontend
    
    npm install
