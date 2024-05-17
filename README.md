@@ -19,8 +19,11 @@
  
    Navigate to the front end folder
    cd /frontend
+   
    npm install
+   
    npm install react-router-dom@latest
+   
    npm start
 
  ####  Back End Setup
